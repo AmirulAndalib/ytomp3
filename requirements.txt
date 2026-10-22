@@ -9,7 +9,7 @@ pytube == 10.8.5
 # ytmp3bot/mp3dldr.py: 3
 # ytmp3bot/mp4dldr.py: 3
 # ytmp3bot/yt_search.py: 2
-requests == 2.18.4
+requests == 2.33.0
 
 # ytmp3bot/bot.py: 2
 telegram == 0.0.1
